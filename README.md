@@ -1,2 +1,3 @@
 # BrainScape
-An application that helps you learn python 
+An online learning platform
+
